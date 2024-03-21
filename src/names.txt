@@ -1,0 +1,6 @@
+java
+python
+rubby
+c++
+c
+C:\Users\tumam\IdeaProjects\umma\src\names.txt
